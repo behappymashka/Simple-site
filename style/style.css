@@ -17,9 +17,8 @@ body {
     line-height: 164.063%;
 }
 
-/*начало секции 1*/
 .start {
-    background-color: #EEEFF1;
+    background-color: #727272;
     width: 100%;
 }
 
@@ -48,10 +47,6 @@ body {
 
 .link {
     text-decoration: none;
-}
-
-.header_link:hover, .header_link:focus, .header_link:active, .header_link1:hover, .header_link1:focus, .header_link1:active {
-    opacity: 20%; /*при наведении курсором или табом цвет будет меняться*/
 }
 
 .text h1 {
